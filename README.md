@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 # 🌐 Unity Netcode Demo
 
 This is a simple **Unity multiplayer demo** using **Unity Netcode for GameObjects (NGO)**.  
