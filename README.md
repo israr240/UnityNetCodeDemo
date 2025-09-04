@@ -13,6 +13,8 @@ The project demonstrates how to create a **host-client setup** where:
 
 ## 🎥 Demo Video
 
+<video src="Demo.mp4" controls width="600"></video>
+
 [![Watch the demo](https://img.youtube.com/vi/edaHBbkEt94/0.jpg)](https://youtu.be/edaHBbkEt94)
 
 ---
